@@ -13,7 +13,7 @@ public class Simple {
 	public void squareA(){
 		this.a *=this.a;
 	}
-	private void squareB(){
+	public void squareB(){
 		this.b*=this.b;
 	}
 	public int getA(){
