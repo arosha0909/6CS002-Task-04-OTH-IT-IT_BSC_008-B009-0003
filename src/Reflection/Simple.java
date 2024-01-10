@@ -2,7 +2,7 @@ package Reflection;
 
 public class Simple {
 	public int a =10;
-	private int b =20;
+	public int b =20;
 	public Simple(){
 		
 	}
